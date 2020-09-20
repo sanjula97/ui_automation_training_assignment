@@ -1,4 +1,5 @@
 # ui_automation_training
-• Full Name: <br>
-• Name with Initials: <br>
-• Student ID No: <br>
+
+• Full Name:Karunarathna Mudiyanselage Sanjula Karunarathna <br> 
+• Name with Initials: K.M.S.Karunarathna<br>
+• Student ID No: SE/2016/017<br>
